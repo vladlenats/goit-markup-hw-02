@@ -198,5 +198,8 @@
     "standalone.mjs"
   ],
   "preferUnplugged": true,
-  "type": "commonjs"
+  "type": "commonjs",
+  "devDependencies": {
+    "prettier": "^3.6.2"
+  }
 }
