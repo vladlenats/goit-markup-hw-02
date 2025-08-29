@@ -72,13 +72,12 @@ h1 {
     background-color: #2E2F42;
 }
 .visually-hidden {
-    position: absolute;
     overflow: hidden;
     clip: rect(0, 0, 0, 0);
     white-space: nowrap;
-    padding: 0;
     border: 0;
     margin: -1px;
+    opacity: 0;
 }
 .main-button {
     font-family: "Roboto", sans-serif;
@@ -92,7 +91,7 @@ h1 {
 }
 
 .main-button:hover,
-.main-button:focus, {
+.main-button:focus {
     background-color: #404BBF;
 }
 .main {
@@ -117,6 +116,9 @@ h3 {
 }
 .team {
     background-color: #F4F4FD;
+}
+.portfolio-list {
+background-color: #FFFFFF
 }
 /* ================= FOOTER ================= */
 .footer-logo {
