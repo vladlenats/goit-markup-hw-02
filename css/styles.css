@@ -113,13 +113,12 @@ h3 {
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2E2F42;
-    background-color: #ffffff
 }
 .team {
     background-color: #F4F4FD;
 }
-.team-position {
-    background-color: #ffffff;
+.team-item {
+    background-color: #FFFFFF;
 }
 /* ================= FOOTER ================= */
 .footer-logo {
