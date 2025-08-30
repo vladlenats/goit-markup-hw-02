@@ -120,6 +120,9 @@ h3 {
 .portfolio {
 background-color: #FFFFFF;
 }
+.portfolio-item {
+    background-color: #FFFFFF;
+}
 /* ================= FOOTER ================= */
 .footer-logo {
     font-family: "Raleway", sans-serif;
